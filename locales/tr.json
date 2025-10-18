@@ -1,0 +1,69 @@
+{
+  "common": {
+    "home": "Ana Sayfa",
+    "map": "Harita",
+    "post": "Gönderi",
+    "messages": "Mesajlar",
+    "profile": "Profil",
+    "search": "Ara",
+    "cancel": "İptal",
+    "save": "Kaydet",
+    "submit": "Gönder",
+    "loading": "Yükleniyor...",
+    "error": "Hata"
+  },
+  "onboarding": {
+    "welcome": "NeighbourHub'a Hoş Geldiniz",
+    "subtitle": "Komşularınızla bağlantı kurun – yerel olarak",
+    "locationPermission": "Yakındaki gönderileri göstermek için konumunuza ihtiyacımız var",
+    "grantLocation": "Konum Erişimine İzin Ver",
+    "selectLanguage": "Dilinizi Seçin",
+    "getStarted": "Başla"
+  },
+  "feed": {
+    "title": "Topluluk Akışı",
+    "noPost": "Henüz gönderi yok",
+    "distanceAway": "{{distance}} uzakta",
+    "timeAgo": "{{time}} önce"
+  },
+  "post": {
+    "createPost": "Gönderi Oluştur",
+    "selectCategory": "Kategori Seç",
+    "title": "Başlık",
+    "description": "Açıklama",
+    "addImage": "Resim Ekle",
+    "location": "Konum",
+    "visibilityRadius": "Görünürlük Yarıçapı",
+    "categories": {
+      "lostFound": "Kayıp ve Bulundu",
+      "marketplace": "Pazar Yeri",
+      "safety": "Güvenlik Uyarısı",
+      "event": "Etkinlik",
+      "general": "Genel"
+    },
+    "reply": "Yanıtla",
+    "share": "Paylaş",
+    "report": "Bildir",
+    "postedBy": "Gönderen",
+    "comments": "Yorumlar"
+  },
+  "map": {
+    "title": "Harita Görünümü",
+    "viewDetails": "Detayları Görüntüle",
+    "nearbyPosts": "Yakındaki Gönderiler"
+  },
+  "messages": {
+    "title": "Mesajlar",
+    "noMessages": "Henüz mesaj yok",
+    "typeMessage": "Bir mesaj yazın..."
+  },
+  "profile": {
+    "title": "Profil",
+    "verifiedLocal": "Doğrulanmış Yerel",
+    "postsThisWeek": "Bu Hafta Gönderiler",
+    "neighboursHelped": "Yardım Edilen Komşular",
+    "settings": "Ayarlar",
+    "editProfile": "Profili Düzenle",
+    "logout": "Çıkış Yap"
+  }
+}

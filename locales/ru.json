@@ -1,0 +1,69 @@
+{
+  "common": {
+    "home": "Главная",
+    "map": "Карта",
+    "post": "Пост",
+    "messages": "Сообщения",
+    "profile": "Профиль",
+    "search": "Поиск",
+    "cancel": "Отмена",
+    "save": "Сохранить",
+    "submit": "Отправить",
+    "loading": "Загрузка...",
+    "error": "Ошибка"
+  },
+  "onboarding": {
+    "welcome": "Добро пожаловать в NeighbourHub",
+    "subtitle": "Общайтесь с соседями – локально",
+    "locationPermission": "Нам нужно ваше местоположение, чтобы показывать ближайшие посты",
+    "grantLocation": "Разрешить доступ к местоположению",
+    "selectLanguage": "Выберите язык",
+    "getStarted": "Начать"
+  },
+  "feed": {
+    "title": "Лента сообщества",
+    "noPost": "Постов пока нет",
+    "distanceAway": "{{distance}} от вас",
+    "timeAgo": "{{time}} назад"
+  },
+  "post": {
+    "createPost": "Создать пост",
+    "selectCategory": "Выберите категорию",
+    "title": "Заголовок",
+    "description": "Описание",
+    "addImage": "Добавить изображение",
+    "location": "Местоположение",
+    "visibilityRadius": "Радиус видимости",
+    "categories": {
+      "lostFound": "Потеряно и найдено",
+      "marketplace": "Маркетплейс",
+      "safety": "Предупреждение о безопасности",
+      "event": "Событие",
+      "general": "Общее"
+    },
+    "reply": "Ответить",
+    "share": "Поделиться",
+    "report": "Пожаловаться",
+    "postedBy": "Опубликовано",
+    "comments": "Комментарии"
+  },
+  "map": {
+    "title": "Вид карты",
+    "viewDetails": "Посмотреть детали",
+    "nearbyPosts": "Ближайшие посты"
+  },
+  "messages": {
+    "title": "Сообщения",
+    "noMessages": "Сообщений пока нет",
+    "typeMessage": "Введите сообщение..."
+  },
+  "profile": {
+    "title": "Профиль",
+    "verifiedLocal": "Проверенный местный житель",
+    "postsThisWeek": "Постов на этой неделе",
+    "neighboursHelped": "Помогли соседям",
+    "settings": "Настройки",
+    "editProfile": "Редактировать профиль",
+    "logout": "Выйти"
+  }
+}

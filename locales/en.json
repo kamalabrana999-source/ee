@@ -1,0 +1,69 @@
+{
+  "common": {
+    "home": "Home",
+    "map": "Map",
+    "post": "Post",
+    "messages": "Messages",
+    "profile": "Profile",
+    "search": "Search",
+    "cancel": "Cancel",
+    "save": "Save",
+    "submit": "Submit",
+    "loading": "Loading...",
+    "error": "Error"
+  },
+  "onboarding": {
+    "welcome": "Welcome to NeighbourHub",
+    "subtitle": "Connect with your neighbours – locally",
+    "locationPermission": "We need your location to show you nearby posts",
+    "grantLocation": "Grant Location Access",
+    "selectLanguage": "Select Your Language",
+    "getStarted": "Get Started"
+  },
+  "feed": {
+    "title": "Community Feed",
+    "noPost": "No posts yet",
+    "distanceAway": "{{distance}} away",
+    "timeAgo": "{{time}} ago"
+  },
+  "post": {
+    "createPost": "Create Post",
+    "selectCategory": "Select Category",
+    "title": "Title",
+    "description": "Description",
+    "addImage": "Add Image",
+    "location": "Location",
+    "visibilityRadius": "Visibility Radius",
+    "categories": {
+      "lostFound": "Lost & Found",
+      "marketplace": "Marketplace",
+      "safety": "Safety Alert",
+      "event": "Event",
+      "general": "General"
+    },
+    "reply": "Reply",
+    "share": "Share",
+    "report": "Report",
+    "postedBy": "Posted by",
+    "comments": "Comments"
+  },
+  "map": {
+    "title": "Map View",
+    "viewDetails": "View Details",
+    "nearbyPosts": "Nearby Posts"
+  },
+  "messages": {
+    "title": "Messages",
+    "noMessages": "No messages yet",
+    "typeMessage": "Type a message..."
+  },
+  "profile": {
+    "title": "Profile",
+    "verifiedLocal": "Verified Local",
+    "postsThisWeek": "Posts This Week",
+    "neighboursHelped": "Neighbours Helped",
+    "settings": "Settings",
+    "editProfile": "Edit Profile",
+    "logout": "Logout"
+  }
+}

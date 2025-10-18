@@ -1,0 +1,69 @@
+{
+  "common": {
+    "home": "หน้าหลัก",
+    "map": "แผนที่",
+    "post": "โพสต์",
+    "messages": "ข้อความ",
+    "profile": "โปรไฟล์",
+    "search": "ค้นหา",
+    "cancel": "ยกเลิก",
+    "save": "บันทึก",
+    "submit": "ส่ง",
+    "loading": "กำลังโหลด...",
+    "error": "ข้อผิดพลาด"
+  },
+  "onboarding": {
+    "welcome": "ยินดีต้อนรับสู่ NeighbourHub",
+    "subtitle": "เชื่อมต่อกับเพื่อนบ้านของคุณ – ในท้องถิ่น",
+    "locationPermission": "เราต้องการตำแหน่งของคุณเพื่อแสดงโพสต์ใกล้เคียง",
+    "grantLocation": "อนุญาตการเข้าถึงตำแหน่ง",
+    "selectLanguage": "เลือกภาษาของคุณ",
+    "getStarted": "เริ่มต้น"
+  },
+  "feed": {
+    "title": "ฟีดชุมชน",
+    "noPost": "ยังไม่มีโพสต์",
+    "distanceAway": "ห่างออกไป {{distance}}",
+    "timeAgo": "{{time}} ที่แล้ว"
+  },
+  "post": {
+    "createPost": "สร้างโพสต์",
+    "selectCategory": "เลือกหมวดหมู่",
+    "title": "หัวข้อ",
+    "description": "คำอธิบาย",
+    "addImage": "เพิ่มรูปภาพ",
+    "location": "ตำแหน่ง",
+    "visibilityRadius": "รัศมีการมองเห็น",
+    "categories": {
+      "lostFound": "ของหายและพบ",
+      "marketplace": "ตลาดซื้อขาย",
+      "safety": "แจ้งเตือนความปลอดภัย",
+      "event": "กิจกรรม",
+      "general": "ทั่วไป"
+    },
+    "reply": "ตอบกลับ",
+    "share": "แชร์",
+    "report": "รายงาน",
+    "postedBy": "โพสต์โดย",
+    "comments": "ความคิดเห็น"
+  },
+  "map": {
+    "title": "มุมมองแผนที่",
+    "viewDetails": "ดูรายละเอียด",
+    "nearbyPosts": "โพสต์ใกล้เคียง"
+  },
+  "messages": {
+    "title": "ข้อความ",
+    "noMessages": "ยังไม่มีข้อความ",
+    "typeMessage": "พิมพ์ข้อความ..."
+  },
+  "profile": {
+    "title": "โปรไฟล์",
+    "verifiedLocal": "ผู้อยู่อาศัยที่ได้รับการยืนยัน",
+    "postsThisWeek": "โพสต์สัปดาห์นี้",
+    "neighboursHelped": "ช่วยเหลือเพื่อนบ้าน",
+    "settings": "การตั้งค่า",
+    "editProfile": "แก้ไขโปรไฟล์",
+    "logout": "ออกจากระบบ"
+  }
+}

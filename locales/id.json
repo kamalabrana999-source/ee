@@ -1,0 +1,69 @@
+{
+  "common": {
+    "home": "Beranda",
+    "map": "Peta",
+    "post": "Posting",
+    "messages": "Pesan",
+    "profile": "Profil",
+    "search": "Cari",
+    "cancel": "Batal",
+    "save": "Simpan",
+    "submit": "Kirim",
+    "loading": "Memuat...",
+    "error": "Kesalahan"
+  },
+  "onboarding": {
+    "welcome": "Selamat datang di NeighbourHub",
+    "subtitle": "Terhubung dengan tetangga Anda – secara lokal",
+    "locationPermission": "Kami memerlukan lokasi Anda untuk menampilkan posting terdekat",
+    "grantLocation": "Izinkan Akses Lokasi",
+    "selectLanguage": "Pilih Bahasa Anda",
+    "getStarted": "Mulai"
+  },
+  "feed": {
+    "title": "Umpan Komunitas",
+    "noPost": "Belum ada posting",
+    "distanceAway": "{{distance}} jauhnya",
+    "timeAgo": "{{time}} yang lalu"
+  },
+  "post": {
+    "createPost": "Buat Posting",
+    "selectCategory": "Pilih Kategori",
+    "title": "Judul",
+    "description": "Deskripsi",
+    "addImage": "Tambah Gambar",
+    "location": "Lokasi",
+    "visibilityRadius": "Jarak Visibilitas",
+    "categories": {
+      "lostFound": "Hilang & Ditemukan",
+      "marketplace": "Pasar",
+      "safety": "Peringatan Keamanan",
+      "event": "Acara",
+      "general": "Umum"
+    },
+    "reply": "Balas",
+    "share": "Bagikan",
+    "report": "Laporkan",
+    "postedBy": "Diposting oleh",
+    "comments": "Komentar"
+  },
+  "map": {
+    "title": "Tampilan Peta",
+    "viewDetails": "Lihat Detail",
+    "nearbyPosts": "Posting Terdekat"
+  },
+  "messages": {
+    "title": "Pesan",
+    "noMessages": "Belum ada pesan",
+    "typeMessage": "Ketik pesan..."
+  },
+  "profile": {
+    "title": "Profil",
+    "verifiedLocal": "Warga Lokal Terverifikasi",
+    "postsThisWeek": "Posting Minggu Ini",
+    "neighboursHelped": "Tetangga yang Dibantu",
+    "settings": "Pengaturan",
+    "editProfile": "Edit Profil",
+    "logout": "Keluar"
+  }
+}
